@@ -1,6 +1,6 @@
 # Trial function
 def greeting(name):
-    return f'Hello {name}!'
+    return f'Wagwan {name}!'
 
 
 # Run this script when this module is run directly
